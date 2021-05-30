@@ -1,0 +1,11 @@
+{
+  "name": "ecmasript_course",
+  "version": "1.0.0",
+  "description": "Entendiendo ECMASCript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristopher Adasme",
+  "license": "ISC"
+}
